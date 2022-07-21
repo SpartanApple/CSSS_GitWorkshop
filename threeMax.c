@@ -23,8 +23,8 @@ int threeMax (int a, int b, int c)
 void main ()
 {
 	int a = 0;
-	int b = 9840;
-	int c = 204;
+	int b = 0;
+	int c = 0;
 
 	int max = threeMax (a, b, c);	
 
