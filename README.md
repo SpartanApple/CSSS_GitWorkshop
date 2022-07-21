@@ -1,6 +1,9 @@
 # Readme basic guide
 A repo used to demo git in the July 13th Git Workshop.
 
+#Demoing a second changed file
+
+
 Use pound signs (#) to create a header at the start of a line
 # \#One pound sign
 ## \#\#Two pound signs

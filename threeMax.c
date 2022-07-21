@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-
+// Finds the max of three values a, b and c
 int threeMax (int a, int b, int c)
 {
 	if (a >= b && a >= c)
